@@ -170,7 +170,7 @@ class DataMaker(object):
                 "<|im_end|>\n"
                 "<|im_start|>user\n"
                 f"# 类别\n{class_content}\n\n"
-                "# 新增示例\n文本的实体：NER1：...；NER2：...。文本：...。此文本对应类别：CLSn+1。\n\n"
+                "# 新增示例\n文本的实体：<NER LABEL 1>：<NER TEXT>；<NER LABEL 2>：<NER TEXT>。文本：<TEXT>。此文本对应类别：<CLS LABEL N+1>。\n\n"
                 f"# 文本的实体\n{entity_content}\n\n"
                 f"# 文本\n{text}\n\n"
                 "请输出此文本对应的类别：\n"
