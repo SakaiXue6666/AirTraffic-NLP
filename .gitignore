@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Outputs (ignore contents, keep folder)
+outputs/*
+!outputs/.gitkeep
+
+# Pretrained models (ignore contents, keep folder)
+pretrained_models/*
+!pretrained_models/.gitkeep
+
+# Pretrained models (ignore contents, keep folder)
+results/*
+!results/.gitkeep
+
+# Ignore dataset fly (sensitive)
+datasets/fly/*
+
+# Allow datasets/fly2
+!datasets/fly2/
+
+# Ignore large checkpoints
+*.pt
+*.bin
+*.pth
+
+# Ignore logs
+*.log
+
+# System files
+.DS_Store

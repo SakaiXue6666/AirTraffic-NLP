@@ -1,0 +1,59 @@
+[
+  {
+    "text": "TEXT",
+    "label": {
+      "<NER LABEL 1>": {
+        "<NER NAME>": [
+          [
+            3,
+            6
+          ]
+        ]
+      },
+      "<NER LABEL 2>": {
+        "<NER NAME>": [
+          [
+            1,
+            2
+          ]
+        ]
+      },
+      "<NER LABEL 3>": {
+        "<NER NAME>": [
+          [
+            16,
+            18
+          ]
+        ]
+      },
+      "<NER LABEL 4>": {
+        "<NER NAME>": [
+          [
+            7,
+            8
+          ]
+        ]
+      },
+      "<NER LABEL 5>": {
+        "<NER NAME>": [
+          [
+            1,
+            2
+          ]
+        ]
+      },
+      "<NER LABEL 6>": {
+        "<NER NAME>": [
+          [
+            13,
+            13
+          ]
+        ]
+      },
+      "scene": [
+        "<CLS LABEL 1>",
+        "<CLS LABEL 2>"
+      ]
+    }
+  }
+]

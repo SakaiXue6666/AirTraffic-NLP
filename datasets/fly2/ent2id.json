@@ -1,0 +1,6 @@
+{
+    "<NER LABEL 1>": 0,
+    "<NER LABEL 2>": 1,
+    "<NER LABEL 3>": 2,
+    "<NER LABEL 50>": 49
+}

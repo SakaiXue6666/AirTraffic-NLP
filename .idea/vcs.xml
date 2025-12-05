@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pretrained_models/chinese-bert-wwm-ext" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pretrained_models/qwen2_5_1_5b" vcs="Git" />
+  </component>
+</project>

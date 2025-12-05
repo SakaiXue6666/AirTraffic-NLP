@@ -1,0 +1,42 @@
+[
+  {
+    "text": "<TEXT>",
+    "label": {
+      "<NER LABEL 1>": {
+        "<NER NAME>": [
+          [
+            7,
+            10
+          ]
+        ]
+      },
+      "<NER LABEL 2>": {
+        "<NER NAME>": [
+          [
+            5,
+            6
+          ]
+        ]
+      },
+      "<NER LABEL 3>": {
+        "<NER NAME>": [
+          [
+            1,
+            4
+          ]
+        ]
+      },
+      "<NER LABEL 4>": {
+        "<NER NAME>": [
+          [
+            5,
+            6
+          ]
+        ]
+      },
+      "scene": [
+        "<CLS LABEL 1>"
+      ]
+    }
+  }
+]
